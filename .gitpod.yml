@@ -2,3 +2,4 @@
 vscode:
   extensions:
     - Vue.volar
+    - GitHub.github-vscode-theme
